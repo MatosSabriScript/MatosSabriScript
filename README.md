@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, eu sou Sabrina Matos 👋
 
-<!--
-**MatosSabriScript/MatosSabriScript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de tecnologia  
+💻 Desenvolvedora em formação  
+📚 Atualmente estudando React, Java e APIs REST  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- React
+- JavaScript
+- HTML
+- CSS
+- Git
+
+## 📌 Projetos
+
+🔹 Sistema Acadêmico em React  
+🔹 API REST com Java e Spring Boot  
+🔹 Projetos de estudo em desenvolvimento web
+
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade na área de tecnologia para aplicar meus conhecimentos e continuar evoluindo como desenvolvedora.
+
+## 📫 Contato
+
+LinkedIn: coloque seu linkedin aqui
