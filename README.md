@@ -25,4 +25,4 @@ Busco minha primeira oportunidade na área de tecnologia para aplicar meus conhe
 
 ## 📫 Contato
 
-LinkedIn: coloque seu linkedin aqui
+https://www.linkedin.com/in/sabrina-almeida-2003p/
